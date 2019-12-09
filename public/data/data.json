@@ -1,0 +1,148 @@
+{
+    "Transaction":[
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":20, "date": "12/1/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":40, "date": "12/3/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Kolh's", "amountSpend":60, "date": "12/5/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Target", "amountSpend":80, "date": "12/7/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":100, "date": "12/15/2019"},
+
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":11, "date": "12/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Target", "amountSpend":21, "date": "12/2/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Walmart", "amountSpend":109, "date": "12/5/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":44, "date": "12/7/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Jc Penny", "amountSpend":56, "date": "12/9/2019"},
+
+
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Walmart", "amountSpend":170, "date": "12/2/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":20, "date": "12/4/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Mecy's", "amountSpend":170, "date": "12/5/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Jc Penny", "amountSpend":16, "date": "12/8/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Kolh's", "amountSpend":107, "date": "12/21/2019"},
+
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":10, "date": "12/1/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Target", "amountSpend":150, "date": "12/6/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Kolh's", "amountSpend":30, "date": "12/9/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Walmart", "amountSpend":56, "date": "12/15/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Jc Penny", "amountSpend":10, "date": "12/20/2019"},
+
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "12/13/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Walmart", "amountSpend":34, "date": "12/18/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":123, "date": "12/19/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Mecy's", "amountSpend":14, "date": "12/20/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Target", "amountSpend":145, "date": "12/21/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "11/12/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Mecy's", "amountSpend":140, "date": "11/13/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Jc Penny", "amountSpend":10, "date": "11/14/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Jc Penny", "amountSpend":46, "date": "11/15/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":100, "date": "11/18/2019"},
+
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "11/15/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Mecy's", "amountSpend":70, "date": "11/16/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":54, "date": "11/17/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Jc Penny", "amountSpend":123, "date": "11/18/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Walmart", "amountSpend":145, "date": "11/19/2019"},
+
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":12, "date": "11/13/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Mecy's", "amountSpend":55, "date": "11/23/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":77, "date": "11/24/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Jc Penny", "amountSpend":89, "date": "11/25/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Walmart", "amountSpend":55, "date": "11/27/2019"},
+
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":40, "date": "11/5/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Jc Penny", "amountSpend":50, "date": "11/6/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":60, "date": "11/7/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Walmart", "amountSpend":120, "date": "11/8/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Target", "amountSpend":24, "date": "11/9/2019"},
+
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":12, "date": "11/13/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Mecy's", "amountSpend":65, "date": "11/13/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Walmart", "amountSpend":78, "date": "11/13/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":124, "date": "11/13/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Target", "amountSpend":156, "date": "11/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":50, "date": "10/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "10/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":24, "date": "10/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":56, "date": "10/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":100, "date": "10/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":65, "date": "9/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":78, "date": "9/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":130, "date": "9/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":87, "date": "9/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":140, "date": "9/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "8/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "8/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":33, "date": "8/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":23, "date": "8/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "8/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "7/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "7/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":170, "date": "7/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":200, "date": "7/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "7/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "6/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "6/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":170, "date": "6/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":200, "date": "6/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "6/13/2019"},
+      
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "5/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "5/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":170, "date": "5/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":200, "date": "5/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "5/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "4/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "4/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":170, "date": "4/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":200, "date": "4/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "4/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "3/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "3/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":170, "date": "3/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":200, "date": "3/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "3/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "2/1/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":90, "date": "2/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":170, "date": "2/3/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":200, "date": "2/5/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "2/13/2019"},
+
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":120, "date": "1/10/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Target", "amountSpend":46, "date": "1/11/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":87, "date": "1/12/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Mecy's", "amountSpend":65, "date": "1/13/2019"},
+      {"firstName":"John", "lastName":"Doe", "store":"Walmart", "amountSpend":34, "date": "1/14/2019"},
+
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Walmart", "amountSpend":90, "date": "1/15/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":100, "date": "1/16/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Target", "amountSpend":120, "date": "1/17/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Mecy's", "amountSpend":68, "date": "1/18/2019"},
+      {"firstName":"Micheal", "lastName":"Taylor", "store":"Kolh's", "amountSpend":34, "date": "1/19/2019"},
+
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Walmart", "amountSpend":170, "date": "1/12/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":28, "date": "1/13/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":48, "date": "1/14/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Mecy's", "amountSpend":46, "date": "1/15/2019"},
+      {"firstName":"Vernice", "lastName":"Abernathy", "store":"Target", "amountSpend":12, "date": "1/16/2019"},
+
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Walmart", "amountSpend":123, "date": "1/5/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Target", "amountSpend":40, "date": "1/6/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":60, "date": "1/7/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":80, "date": "1/8/2019"},
+      {"firstName":"Cheyanne", "lastName":"Ernser", "store":"Mecy's", "amountSpend":12, "date": "1/9/2019"},
+
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Walmart", "amountSpend":89, "date": "1/13/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "1/14/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Target", "amountSpend":89, "date": "1/15/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Mecy's", "amountSpend":89, "date": "1/16/2019"},
+      {"firstName":"Jeff", "lastName":"Bogisich", "store":"Jc Penny", "amountSpend":89, "date": "1/17/2019"}
+    ]
+}
